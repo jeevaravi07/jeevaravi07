@@ -46,8 +46,6 @@
 
 To develop innovative AI-powered solutions that solve real-world problems through intelligent automation, secure systems, and modern software technologies.
 
-me = Jeeva()
-me.say_hello()
 
 🚀 Developing intelligent applications using AI and Machine Learning.
 
@@ -67,7 +65,7 @@ me.say_hello()
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 ### 🤖 AI / ML / Deep Learning
 
