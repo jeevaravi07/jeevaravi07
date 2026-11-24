@@ -22,32 +22,32 @@
 
 ## 👨‍💻 ABOUT ME
 
-```python
-class Jeeva:
-    def __init__(self):
-        self.name = "Jeeva R."
-        self.role = "AI & Machine Learning Engineer"
-        self.location = "Bengaluru, India"
+<div align="center">
 
-        self.languages = ["Python", "SQL"]
+### Hi, I'm Jeeva R. 👋
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Generative AI",
-            "Cybersecurity"
-        ]
+**Python Developer | AI & Machine Learning Engineer | Backend Developer**
 
-        self.goal = "Building intelligent and secure applications"
+*Passionate about transforming ideas into intelligent, secure, and scalable applications.*
 
-    def say_hello(self):
-        print("Welcome to my GitHub profile!")
+</div>
+
+---
+
+- 🔭 **Currently Working On:** AI, Machine Learning, Deep Learning and Backend Development projects.
+- 🌱 **Currently Learning:** Generative AI, LLMs, RAG Architecture and Advanced Deep Learning.
+- 💻 **Programming:** Python and SQL.
+- 🤖 **AI Interests:** Machine Learning, Computer Vision, NLP and Intelligent Automation.
+- 🔐 **Security Interests:** Cryptography, AES Encryption, Image Steganography and Cybersecurity.
+- 🛠️ **Development:** Flask, FastAPI, REST APIs and Database Management.
+- 📍 **Location:** Bengaluru, India.
+
+### 🎯 My Mission
+
+To develop innovative AI-powered solutions that solve real-world problems through intelligent automation, secure systems, and modern software technologies.
 
 me = Jeeva()
 me.say_hello()
-```
 
 🚀 Developing intelligent applications using AI and Machine Learning.
 
