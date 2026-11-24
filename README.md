@@ -1,20 +1,16 @@
-<!-- PROFILE HEADER -->
+# 👋 Hi, I'm Jeeva R.
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=220&section=header&text=JEEVA%20R.&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Intelligent+AI+Solutions;Python+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Backend+Development;Turning+Ideas+Into+Reality!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Building+Intelligent+AI+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+YOLO;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+AI+Agent+Development;React+%7C+Next.js+%7C+Full+Stack+Development" />
 
 <br/>
 
-<a href="https://github.com/jeevaravi07">
 <img src="https://komarev.com/ghpvc/?username=jeevaravi07&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
-</a>
 
-<a href="https://github.com/jeevaravi07?tab=followers">
 <img src="https://img.shields.io/github/followers/jeevaravi07?label=Followers&style=for-the-badge&color=00D4FF" />
-</a>
 
 </div>
 
@@ -26,36 +22,38 @@
 
 ### Hi, I'm Jeeva R. 👋
 
-**Python Developer | AI & Machine Learning Engineer | Backend Developer**
+**Python Developer | AI & Machine Learning Engineer | Generative AI Developer | Full Stack Developer**
 
-*Passionate about transforming ideas into intelligent, secure, and scalable applications.*
+*Passionate about transforming innovative ideas into intelligent, scalable, and secure software solutions.*
 
 </div>
 
----
-
-- 🔭 **Currently Working On:** AI, Machine Learning, Deep Learning and Backend Development projects.
-- 🌱 **Currently Learning:** Generative AI, LLMs, RAG Architecture and Advanced Deep Learning.
-- 💻 **Programming:** Python and SQL.
-- 🤖 **AI Interests:** Machine Learning, Computer Vision, NLP and Intelligent Automation.
+- 🔭 **Currently Working On:** AI, Machine Learning, Deep Learning, Generative AI and Full Stack Development.
+- 🌱 **Currently Learning:** Agentic AI, AI Agent Building, LLMs, RAG Architecture and Advanced Deep Learning.
+- 💻 **Programming Languages:** Python, SQL and JavaScript.
+- 🤖 **AI & ML:** Machine Learning, Deep Learning, YOLO, Computer Vision and NLP.
+- 🧠 **Generative AI:** LLMs, RAG, LangChain, Vector Databases and AI Agents.
+- 🌐 **Frontend Development:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS and Bootstrap.
+- ⚙️ **Backend Development:** Flask, FastAPI and REST API Development.
+- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, FAISS and ChromaDB.
 - 🔐 **Security Interests:** Cryptography, AES Encryption, Image Steganography and Cybersecurity.
-- 🛠️ **Development:** Flask, FastAPI, REST APIs and Database Management.
+- 🛠️ **Tools & Platforms:** Git, GitHub, Docker, AWS and VS Code.
 - 📍 **Location:** Bengaluru, India.
 
-### 🎯 My Mission
+### 🎯 MY MISSION
 
-To develop innovative AI-powered solutions that solve real-world problems through intelligent automation, secure systems, and modern software technologies.
+To build intelligent applications by combining Artificial Intelligence, Generative AI, modern web technologies and secure software engineering to solve real-world problems.
 
+### 🚀 WHAT I DO
 
-🚀 Developing intelligent applications using AI and Machine Learning.
-
-🧠 Exploring Deep Learning, Generative AI, LLMs, and RAG architectures.
-
-👁️ Interested in Computer Vision and intelligent automation.
-
-🔐 Passionate about Cryptography, Encryption, and Secure Systems.
-
-💡 Always learning, experimenting, and building new technologies.
+- 🤖 Develop intelligent Machine Learning and Deep Learning applications.
+- 👁️ Build real-time object detection systems using YOLO and Computer Vision.
+- 🧠 Develop Generative AI applications using LLMs and RAG architectures.
+- ⚡ Explore Agentic AI, autonomous workflows and AI Agent development.
+- 🌐 Create modern web applications using React, Next.js and JavaScript.
+- 🔧 Develop scalable backend applications using Python, Flask and FastAPI.
+- 🔐 Explore secure systems, cryptography and information security.
+- 💡 Continuously experiment with emerging technologies and innovative ideas.
 
 ---
 
@@ -65,26 +63,60 @@ To develop innovative AI-powered solutions that solve real-world problems throug
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
-### 🤖 AI / ML / Deep Learning
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+### 🤖 AI, ML & Deep Learning
 
-### 🌐 Backend Development
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+<img src="https://img.shields.io/badge/Machine%20Learning-AI-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-Image%20AI-green?style=for-the-badge" />
+
+<br/><br/>
+
+### 🧠 Generative AI & Agentic AI
+
+<img src="https://img.shields.io/badge/Generative%20AI-LLM%20Applications-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6F61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Agents-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agent%20Building-Intelligent%20Workflows-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-LLM%20Framework-1C3C3C?style=for-the-badge" />
+
+<br/><br/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+
+<br/><br/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
+
+<br/><br/>
 
 ### 🗄️ Databases & Vector Search
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 
-<img src="https://img.shields.io/badge/FAISS-Vector%20Database-00A67E?style=for-the-badge" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-00A67E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-6C63FF?style=for-the-badge" />
 
-### 🛠️ Tools & Platforms
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,aws,jupyter" />
+### 🛠️ Tools, Cloud & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,aws,jupyter,postman" />
 
 </div>
 
@@ -103,7 +135,7 @@ To develop innovative AI-powered solutions that solve real-world problems throug
 
 </div>
 
-A secure image steganography framework combining Frequency Hopping Spread Spectrum (FHSS), AES-GCM authenticated encryption, and error correction techniques.
+A secure image steganography framework combining Frequency Hopping Spread Spectrum (FHSS), AES-GCM authenticated encryption and error correction techniques to improve confidential information transmission through digital images.
 
 **Key Features:**
 
@@ -124,9 +156,13 @@ A secure image steganography framework combining Frequency Hopping Spread Spectr
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevaravi07&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=jeevaravi07&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeevaravi07&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -150,7 +186,7 @@ A secure image steganography framework combining Frequency Hopping Spread Spectr
 
 <br/><br/>
 
-**💬 Let's Connect, Collaborate & Build Something Amazing!**
+### 💬 LET'S CONNECT, COLLABORATE & BUILD SOMETHING AMAZING!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:4B0082,100:090979&height=120&section=footer" width="100%" />
 
