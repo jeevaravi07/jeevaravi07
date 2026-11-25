@@ -2,14 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=220&section=header&text=JEEVA%20R.&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=60&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Building+Intelligent+AI+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+YOLO;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+AI+Agent+Development;React+%7C+Next.js+%7C+Full+Stack+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=JEEVA+R.+%7C+AI+%26+ML+Engineer;Welcome+to+my+GitHub+Profile!;Building+Intelligent+AI+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+YOLO;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+AI+Agent+Development;React+%7C+Next.js+%7C+Full+Stack+Development" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=jeevaravi07&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
-
 <img src="https://img.shields.io/github/followers/jeevaravi07?label=Followers&style=for-the-badge&color=00D4FF" />
 
 </div>
@@ -116,7 +113,11 @@ To build intelligent applications by combining Artificial Intelligence, Generati
 
 ### 🛠️ Tools, Cloud & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,aws,jupyter,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,aws,postman" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
 
@@ -152,17 +153,16 @@ A secure image steganography framework combining Frequency Hopping Spread Spectr
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeevaravi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevaravi07&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=jeevaravi07&theme=tokyonight&hide_border=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=jeevaravi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevaravi07&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeevaravi07&theme=tokyo-night&hide_border=true" />
+<img width="495" src="https://streak-stats.demolab.com?user=jeevaravi07&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=jeevaravi07&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -187,7 +187,5 @@ A secure image steganography framework combining Frequency Hopping Spread Spectr
 <br/><br/>
 
 ### 💬 LET'S CONNECT, COLLABORATE & BUILD SOMETHING AMAZING!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:4B0082,100:090979&height=120&section=footer" width="100%" />
 
 </div>
